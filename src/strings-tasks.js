@@ -5,7 +5,7 @@
  *                                                                                           *
  ******************************************************************************************* */
 
-/**
+/*
  * Returns the length of the given string.
  *
  * @param {string} value - The input string to calculate the length of.
